@@ -1,22 +1,5 @@
 INDEX VERSION 1.131+C:\Users\nmusthaf\Desktop\Junit testing\.metadata\.plugins\org.eclipse.jdt.core
-3281024202.index
-3294775327.index
-3142909733.index
-3969625120.index
-267812114.index
-4098330864.index
-1190290176.index
-4090748267.index
-1178327200.index
-2143212375.index
-3286924089.index
-987169808.index
-980426990.index
-1051059320.index
-774875157.index
-3763053085.index
-1865797976.index
-215248996.index
-207576846.index
+260474525.index
 3716777220.index
 3749604728.index
+1865797976.index

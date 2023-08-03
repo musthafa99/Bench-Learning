@@ -10,18 +10,7 @@ public class Main {
 		Double Bankbalance=input.nextDouble();
 		Double Withdraw=input.nextDouble();
 		BankAccount bank=new BankAccount();
-		try {
-			System.out.println(bank.Withdraw(Bankbalance, Withdraw));
-		} catch (InsufficientException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
-		/*catch(InsufficientException e)
-		{
-				System.out.println(e.getMessage());
-		}*/
-		
-		}
+		System.out.println(bank.Withdraw(Bankbalance, Withdraw));		
+	}
 
 }
