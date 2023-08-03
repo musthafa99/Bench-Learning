@@ -1,0 +1,18 @@
+package com.cg.model;
+
+import java.util.*;
+
+public class Main {
+
+	public static void main(String[] args) {
+	
+		Scanner input=new Scanner(System.in);
+		Double Bankbalance=input.nextDouble();
+		Double Withdraw=input.nextDouble();
+		BankAccount bank=new BankAccount();
+	
+			System.out.println(bank.Withdraw(Bankbalance, Withdraw));
+		}
+		
+		
+}
